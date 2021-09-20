@@ -8,5 +8,8 @@
 </head>
 <body>
     <p>Hello World ka</p>
+    <?php   
+        echo("Hello world");
+    ?>
 </body>
-</html>
+</html> 
