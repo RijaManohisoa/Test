@@ -11,5 +11,6 @@
     <?php   
         echo("Hello world");
     ?>
+    <a href="/xml/feed.xml">xml</a>
 </body>
 </html> 

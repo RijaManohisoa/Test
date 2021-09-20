@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rss version="0.92" xml:base="http://www.primaryobjects.com">
+<channel>
+<title>My RSS Feed Title</title>
+<link>http://www.yoursite.com</link>
+<description>My feed description</description>
+<language>en-us</language>
+<image>
+<title>My Title</title>
+<url>http://www.yoursite.com/image.gif</url>
+<link>http://www.yoursite.com</link>
+<width>50</width>
+<height>44</height>
+</image>
+<item>
+<title>Title of article</title>
+<link>http://www.yoursite.com/location_of_article_content.html</link>
+<description><![CDATA[Body of content goes here.<BR>HTML text can be included inside this tag.<BR>]]></description>
+<pubDate>Mon, 20 Sep 2021 10:42:17 GMT</pubDate>
+</item>
+</channel>
+</rss>
